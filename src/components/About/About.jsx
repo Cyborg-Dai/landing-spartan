@@ -20,7 +20,7 @@ const About = () => {
           initial='initial'
           animate='animate'
         >
-          En Spartan Code, nuestra misión es clara: Proteger el futuro digital a través de la experiencia real.
+          En Spartan, nuestra misión es clara: Proteger el futuro digital a través de la experiencia real.
 
 Somos un equipo de profesionales apasionados por la ciberseguridad, dedicados a aplicar nuestros conocimientos en el campo del hacking ético y el pen testing. Nacidos de un compromiso con la excelencia académica y la aplicación práctica, hemos unido nuestras habilidades para enfrentar los desafíos de seguridad más complejos del mundo digital.
 
