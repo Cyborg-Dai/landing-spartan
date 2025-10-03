@@ -22,11 +22,11 @@ const About = () => {
         >
           En Spartan, nuestra misión es clara: Proteger el futuro digital a través de la experiencia real.
 
-Somos un equipo de profesionales apasionados por la ciberseguridad, dedicados a aplicar nuestros conocimientos en el campo del hacking ético y el pen testing. Nacidos de un compromiso con la excelencia académica y la aplicación práctica, hemos unido nuestras habilidades para enfrentar los desafíos de seguridad más complejos del mundo digital.
+Somos un equipo de profesionales apasionados por la ciberseguridad, dedicados a aplicar nuestros conocimientos en el campo del hacking ético y el pen testing. Nacidos de un compromiso con la excelencia académica y la aplicación práctica, hemos unido nuestras habilidades para enfrentar los desafíos de seguridad del mundo digital.
 
 Nuestra filosofía es simple: no solo identificamos vulnerabilidades; las entendemos a fondo. Nos sumergimos en los sistemas para descubrir sus puntos débiles, no con la intención de dañar, sino para fortalecer. Cada prueba de penetración y cada análisis de seguridad que realizamos es un paso más para asegurar que las empresas puedan operar con total tranquilidad.
 
-En un mundo donde las amenazas evolucionan constantemente, en Spartan Code nos mantenemos a la vanguardia, aprendiendo y adaptando nuestras técnicas. Nuestra experiencia, forjada en la práctica y el trabajo conjunto, es la garantía de que tus activos digitales estarán en las manos más capaces.
+En un mundo donde las amenazas evolucionan constantemente, en Spartan nos mantenemos a la vanguardia, aprendiendo y adaptando nuestras técnicas. Nuestra experiencia, forjada en la práctica y el trabajo conjunto, es la garantía de que tus activos digitales estarán en las manos más capaces.
         </motion.p>
       </div>
     </section>
