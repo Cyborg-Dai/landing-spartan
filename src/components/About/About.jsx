@@ -15,7 +15,7 @@ const About = () => {
           Sobre Nosotros
         </motion.h2>
         <motion.p
-          className='mt-6 text-white/90 text-center'
+          className='mt-6 text-white/90 text-center text-sm sm:text-base'
           variants={slipeUp(0.2)}
           initial='initial'
           animate='animate'

@@ -10,7 +10,7 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault()
     // Construir mailto (frontend-only)
-    const to = 'tuemail@dominio.com' // TODO: reemplazar por tu email real
+    const to = 'cyborg.daibx@gmail.com' // Reemplazar por email de la empresa
     const subject = `Consulta desde landing - ${name}`
     const body = `Nombre: ${name}\nEmail: ${email}\n\nMensaje: ${message}`
 
