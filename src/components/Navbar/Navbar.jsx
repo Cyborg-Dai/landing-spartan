@@ -45,12 +45,19 @@ const Navbar = () => {
  
   return (
     <nav className='fixed top-0 left-0 w-full bg-black/50 backdrop-blur-md z-50'>
-      <div className='grid grid-cols-3 items-center sm:px-8 px-4 py-2 sm:py-3'>
+      <div className='grid grid-cols-2 md:grid-cols-3 items-center sm:px-8 px-4 py-2 sm:py-3'>
 
 
     {/*Logo navbar */}
         <div className='flex items-center'>
-            <img src={Logo} alt='Logo del sitio' className='h-10 sm:h-12 w-auto'/> {/* logo más compacto por altura */}
+            <a
+              href="#home"
+              aria-label='Ir al inicio'
+              onClick={() => setIsOpen(false)}
+              className='inline-flex items-center focus:outline-none focus:ring-2 focus:ring-[#AFFF00] rounded'
+            >
+              <img src={Logo} alt='Logo del sitio' className='h-10 sm:h-12 w-auto'/> {/* logo más compacto por altura */}
+            </a>
         </div>
 
     {/*Navegacion Links navbar (columna central) */}
